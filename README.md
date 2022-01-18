@@ -1,7 +1,7 @@
 # Shark-Image-Classifier-CNN
 An image classifier for identifying dangerous species of sharks. A neural network-based creative tool for images using a Convolutional Neural Network (CNN). 
 
-##Video Diary Links:
+## Video Diary Links:
 - https://youtu.be/1iTY0d0F8as (1)
 - https://youtu.be/CzIKKSJmDlQ (2)
 - https://youtu.be/f0oFfdo90yI (3)
