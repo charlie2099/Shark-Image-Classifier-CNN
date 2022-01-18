@@ -13,7 +13,7 @@ An image classifier for identifying dangerous species of sharks. A neural networ
 - https://youtu.be/dq24kTiwFZg (9)
 - https://youtu.be/hcFC6aJXRDY (10)
 
-Project Dependencies (As used by Google Colab):
+## Project Dependencies (As used by Google Colab):
 - Python 3.6
 - Pytorch 1.10.0 
 - CUDA 11.1
